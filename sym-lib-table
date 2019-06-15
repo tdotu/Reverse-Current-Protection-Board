@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ppboard-rescue)(type Legacy)(uri ${KIPRJMOD}/ppboard-rescue.lib)(options "")(descr ""))
+)
